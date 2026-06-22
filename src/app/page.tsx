@@ -23,12 +23,12 @@ export default function CargoPage() {
       name: "BAY 4",
       capacity: 50,
       pipeA: {
-        name: '20" CASING',
-        qty: 10,
+        name: 'PLAIN',
+        qty: 50,
       },
       pipeB: {
-        name: '13⅜" CASING',
-        qty: 8,
+        name: 'ANODES',
+        qty: 0,
       },
     },
     {
@@ -36,12 +36,12 @@ export default function CargoPage() {
       name: "BAY 3",
       capacity: 50,
       pipeA: {
-        name: '9⅝" CASING',
-        qty: 12,
+        name: 'PLAIN',
+        qty: 48,
       },
       pipeB: {
-        name: '7" CASING',
-        qty: 5,
+        name: 'ANODES',
+        qty: 2,
       },
     },
     {
@@ -49,12 +49,12 @@ export default function CargoPage() {
       name: "BAY 2",
       capacity: 50,
       pipeA: {
-        name: "DRILL PIPE",
-        qty: 8,
+        name: "PLAIN",
+        qty: 33,
       },
       pipeB: {
-        name: "LANDING STRING",
-        qty: 7,
+        name: "ANODES",
+        qty: 17,
       },
     },
     {
@@ -62,12 +62,12 @@ export default function CargoPage() {
       name: "BAY 1",
       capacity: 50,
       pipeA: {
-        name: "PIPE A",
-        qty: 7,
+        name: "PLAIN",
+        qty: 50,
       },
       pipeB: {
-        name: "PIPE B",
-        qty: 5,
+        name: "ANODES",
+        qty: 0,
       },
     },
   ]);
